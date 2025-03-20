@@ -32,3 +32,6 @@ Rating = CALCULATE(AVERAGE('BlinkIT Grocery Data'[Rating]))
 No. of Item = CALCULATE(COUNT('BlinkIT Grocery Data'[Item Identifier]))
 ```
 
+### Dashboard
+![](Blinkit_Dashboard.pdf)
+
