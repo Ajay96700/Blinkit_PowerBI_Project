@@ -1,6 +1,6 @@
 # Blinkit Grocery Data Dashboard using POWERBI
 
-![Blinkit Logo](Blinkit Logo.png)
+![Blinkit Logo] (Blinkit Logo.png)
 
 ## Overview
 
