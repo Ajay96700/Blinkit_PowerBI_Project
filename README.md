@@ -33,5 +33,5 @@ No. of Item = CALCULATE(COUNT('BlinkIT Grocery Data'[Item Identifier]))
 ```
 
 ### Dashboard
-![Dashboard](Blinkit_Dashboard.pdf)
+![Dashboard](https://github.com/Ajay96700/Blinkit_PowerBI_Project/blob/main/Blinkit_Dashboard.pdf)
 
