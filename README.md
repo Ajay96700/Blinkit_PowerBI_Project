@@ -1,3 +1,7 @@
+# Blinkit Grocery Data Dashboard using POWERBI
+
+![Blinkit Logo]()
+
 ## Overview
 
 Blinkit is India's leading quick-commerce platform, specializing in last-minute grocery and essentials delivery. The company caters to customers across different tier cities, offering a variety of grocery items, household goods, and beverages. The data provides insights into sales performance, customer preferences, and outlet efficiency across different outlet types, locations, and item categories.
